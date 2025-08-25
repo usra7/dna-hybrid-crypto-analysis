@@ -1,0 +1,9 @@
+Algorithm,BigDocx.doc,notepad.exe,image.png
+Proposed,0.0094,0.5615,0.9791
+AES-128+GZIP,0.0094,0.5616,0.9791
+AES-128,1,1.0001,1.0001
+ChaCha20,1,1,1
+DES,1,1,1
+Blowfish,1,1.0001,1.0001
+OTP,1,1,1
+DNA-OTP,1,1,1
