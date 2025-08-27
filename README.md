@@ -51,6 +51,7 @@ The framework benchmarks the following encryption methods:
 
 ## 📁 Repository Structure
 
+<img width="696" height="812" alt="image" src="https://github.com/user-attachments/assets/90e28482-56fb-4be6-89c0-5e848071b42f" />
 
 
 
